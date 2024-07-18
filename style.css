@@ -1,0 +1,44 @@
+*{
+    font-family: "Roboto", sans-serif;
+}
+.json-container{
+    width: 350px;
+}
+.p-element{
+    background-color:#f3f3f3 ;
+    padding: 10px 10px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+
+/* Greeting Card */
+
+.greetingContainer{
+    background-image:url(" https://wallpapers.com/blog/wp-content/uploads/2023/06/glitter-golden-bokeh-lights-scaled.jpeg") ;
+    height: 500px;
+    width: 500px;
+    background-size: cover;
+    background-position: center;
+    padding: 0 20px;
+}
+.menuGreeting{
+    text-align: right;
+    padding-right: 20px;
+}
+
+.contentGreeting>h1{
+    font-size: 90px;
+    margin: 20px 0 !important;
+}
+.menuGreeting>p{
+    font-weight: 400;
+font-size: 20px;
+margin: 0 0 10px 0 !important;
+padding-top: 10px;
+}
+
+.contentGreeting>p{
+    font-weight: 400;
+font-size: 30px;
+
+}
